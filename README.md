@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any projects involving Delphi as that is the language I am most familiar with at the moment ( I am a bit rusty at the others as I've mainly been programming in Delphi this year.
 - 📫 How to reach me: pavannaidoo6@gmail.com for programming/ collabarative/ school related communication
 - I am a student at the moment and am eager for the chance to collaborate with other developers. I am a self taught programmer who started at 14 years old. I have honestly fallen in love with programming and would
-be honoured if anyone would consider allowing me to collaborate with them on your their projects. 
+be honoured if anyone would consider allowing me to collaborate with them on their projects. 
 
 
 
